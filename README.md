@@ -19,19 +19,20 @@
 * Exercise: function that gets two numbers and returns their sum
 * Exercise: function that gets two numbers and divedes them
 
+* `if` statement
+
+* Exercise: calculator function that gets 2 numbers and an operator (+,-,*,/) and returns the result
+
+
+* `for` loop on range `for i in 1..5 {}`, break , continue
+
+* Exercise: factorial function
+
+
 * mutable variables
 
 * shadowing variables (redeclare)
 
 
 
-* `if` statement
-
-* Exercise: cacl 
-
-
-* `for` loop on range `for i in 1..5 {}`
-
-
-* Exercise: factorial function
 
