@@ -17,6 +17,8 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * [SurrealDB](https://surrealdb.com/) multi-model database
 
 
+* [Pydantic](https://docs.pydantic.dev/latest/
+
 * Install Rust
 
 * `cargo new demo`
