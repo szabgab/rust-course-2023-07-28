@@ -5,6 +5,7 @@
 * Sales-pitch - why learn Rust?
 
 * Speed - on par with C and C++ ??
+* Memory safety
 
 
 
