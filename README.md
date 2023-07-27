@@ -2,6 +2,14 @@
 
 ## Session 1
 
+* Marketing
+
+Open source projects that were written in Rust, but are used by not necessarily Rust programmers.
+
+* [Slint](https://slint.dev/) GUI design language.
+* [SurrealDB](https://surrealdb.com/) multi-model database
+
+
 * Install Rust
 
 * `cargo new demo`
