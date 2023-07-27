@@ -24,10 +24,11 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 * [Awesome Alternatives in Rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)
 
+* [Deno](https://deno.land/) JavaScript runtime.
 
-* [Ruff](https://beta.ruff.rs/docs/) a very fast Python linter
-* [Polars](https://www.pola.rs/) Lightning-fast DataFrame library for Rust and Python
-* [Pydantic](https://docs.pydantic.dev/latest/
+* [Ruff](https://beta.ruff.rs/docs/) a very fast Python linter.
+* [Polars](https://www.pola.rs/) Lightning-fast DataFrame library for Rust and Python.
+* [Pydantic](https://docs.pydantic.dev/latest/) data validation library for Python.
 
 * Install Rust
 
