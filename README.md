@@ -2,7 +2,11 @@
 
 ## Session 1
 
-* Marketing
+* Sales-pitch - why learn Rust?
+
+* Speed - on par with C and C++
+
+
 
 Open source projects that were written in Rust, but are used by not necessarily Rust programmers.
 
