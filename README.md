@@ -20,8 +20,9 @@
 
 * `for` loop on range `for i in 1..5 {}`
 
-* function declaration
+* function declaration passing numbers, returning numbers
 
-* Exercise: factorial function
-
+* Exercise:
+    * factorial function
+    *
 
