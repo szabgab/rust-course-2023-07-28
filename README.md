@@ -16,5 +16,12 @@
 
 * shadowing variables (redeclare)
 
-* for loop on range `for i in 1..5 {}`
+* `if` statement
+
+* `for` loop on range `for i in 1..5 {}`
+
+* function declaration
+
+* Exercise: factorial function
+
 
