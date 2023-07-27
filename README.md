@@ -4,7 +4,7 @@
 
 * Sales-pitch - why learn Rust?
 
-* Speed - on par with C and C++
+* Speed - on par with C and C++ ??
 
 
 
