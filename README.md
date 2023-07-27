@@ -26,6 +26,7 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 
 * [Ruff](https://beta.ruff.rs/docs/) a very fast Python linter
+* [Polars](https://www.pola.rs/) Lightning-fast DataFrame library for Rust and Python
 * [Pydantic](https://docs.pydantic.dev/latest/
 
 * Install Rust
