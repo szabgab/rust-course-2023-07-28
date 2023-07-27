@@ -19,6 +19,8 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * Components of [Firefox](https://www.mozilla.org/en-US/firefox/)
 * In the [Linux kernel](https://docs.kernel.org/rust/index.html)
 
+* [Awesome Alternatives in Rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)
+
 
 * [Pydantic](https://docs.pydantic.dev/latest/
 
