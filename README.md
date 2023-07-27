@@ -16,6 +16,8 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * [Slint](https://slint.dev/) GUI design language.
 * [SurrealDB](https://surrealdb.com/) multi-model database
 * [MeiliSearch](https://www.meilisearch.com/)
+* Components of [Firefox](https://www.mozilla.org/en-US/firefox/)
+* In the [Linux kernel](https://docs.kernel.org/rust/index.html)
 
 
 * [Pydantic](https://docs.pydantic.dev/latest/
