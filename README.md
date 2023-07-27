@@ -22,7 +22,5 @@
 
 * function declaration passing numbers, returning numbers
 
-* Exercise:
-    * factorial function
-    *
+* Exercise: factorial function
 
