@@ -17,7 +17,7 @@
 * function declaration passing numbers, returning numbers
 
 * Exercise: function that gets two numbers and returns their sum
-* Exercise: function that gets two numbers and returns their 
+* Exercise: function that gets two numbers and divedes them
 
 * mutable variables
 
