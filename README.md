@@ -16,7 +16,5 @@
 
 * shadowing variables (redeclare)
 
-
-
-
+* for loop on range `for i in 1..5 {}`
 
