@@ -7,6 +7,8 @@
 * Speed - on par with C and C++ ??
 * Memory safety
 
+* Strong static type system
+* No garbage collection
 
 
 Open source projects that were written in Rust, but are used by not necessarily Rust programmers.
