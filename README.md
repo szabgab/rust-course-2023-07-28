@@ -1,5 +1,7 @@
 # rust-course-2023-07-28
 
+## Session 1
+
 * Install Rust
 
 * `cargo new demo`
@@ -23,16 +25,16 @@
 
 * Exercise: calculator function that gets 2 numbers and an operator (+,-,*,/) and returns the result
 
-
 * `for` loop on range `for i in 1..5 {}`, break , continue
 
-* Exercise: factorial function
+* Exercise: factorial function (given a number return n!)
 
+
+
+## Session 2
 
 * mutable variables
 
 * shadowing variables (redeclare)
-
-
 
 
