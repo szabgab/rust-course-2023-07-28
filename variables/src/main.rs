@@ -4,8 +4,8 @@ fn main() {
     //x = x + 1;
     //dbg!(x);
 
-    let age = "23";
-    dbg!(age);
+    //let age = "23";
+    //dbg!(age);
     //let age = 23;
     //dbg!(age);
 
@@ -28,19 +28,19 @@ fn main() {
     //let age = age as f32;
     //dbg!(age);
 
-    let op = "+";
-    match op {
-        "+" => println!("add"),
-        "-" => println!("deduct"),
-//        _   => println!("other"),
-    }
-
-
-
-    //let age = "300";
-    //dbg!(age);
-    //let age: u8 = match age.parse() {
+    //let op = "*";
+    //match op {
+    //    "+" => println!("add"),
+    //    "-" => println!("deduct"),
+    //     _  => println!("other"),
     //}
+
+
+
+    let age = "300";
+    dbg!(age);
+    let age: u8 = match age.parse() {
+    }
     //dbg!(age);
 
 }
