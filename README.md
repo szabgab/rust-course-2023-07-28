@@ -56,13 +56,14 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 
 * variable with numbers
-* types of numbers
+* types of numbers i8, u8
 * operations with numbers
 
 * function declaration passing numbers, returning numbers
 
 * Exercise: function that gets two numbers and returns their sum
 * Exercise: function that gets two numbers and divedes them
+* And the other 2 simple math operations
 
 * `if` statement
 
