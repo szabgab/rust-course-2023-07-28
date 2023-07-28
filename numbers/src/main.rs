@@ -5,4 +5,6 @@ fn main() {
     let b = 19;
     let c = a + b;
     dbg!(c);
+    let d = a / b;
+    dbg!(d);
 }
