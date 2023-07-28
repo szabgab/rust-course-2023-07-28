@@ -10,4 +10,6 @@ fn main() {
     println!("Hello {}", name);
     println!("Hello {name}");
     dbg!(name);
+    let age = 21;
+    let out = format!("Hello {name} are you more than {age} old?");
 }
