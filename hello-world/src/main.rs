@@ -5,6 +5,9 @@ fn main() {
     //eprintln!("error Hello, world! again");
     //eprint!("error Hello, world! again");
 
-    let _name = "Foo";
+    let name = "Foo";
     println!("Hello");
+    println!("Hello {}", name);
+    println!("Hello {name}");
+    dbg!(name);
 }
