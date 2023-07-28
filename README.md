@@ -93,8 +93,8 @@ Open source projects that were written in Rust, but are used by not necessarily 
 ### Projects (folders) used
 
 * [hello-world](hello-world)
-* numbers
-* variables
+* [numbers](numbers)
+* [variables](variables)
 
 
 ## Session 2
