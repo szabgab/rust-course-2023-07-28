@@ -35,6 +35,9 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 * Install Rust
 
+* Editor
+* VScode + rust-analyzer
+
 * `cargo new demo`
 
 * println! print!   eprintln!   eprint!  dbg!  format!  (macros, metaprogramming)
