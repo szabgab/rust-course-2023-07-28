@@ -35,8 +35,9 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 * Install Rust
 
-* Editor
-* VScode + rust-analyzer
+* Editor:
+    * Vim + ??
+    * VScode + rust-analyzer
 
 * `cargo new demo`
 
