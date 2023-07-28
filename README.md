@@ -17,6 +17,7 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * [SurrealDB](https://surrealdb.com/) multi-model database.
 * [Fish Folk](https://fishfolk.org/) game.
 * [Foundry](https://github.com/foundry-rs/foundry) toolkit for Ethereum application development.
+* [Lemmy](https://lemmy.world/) is a free, open source, distributed alternative to Reddit. [GitHub](https://github.com/LemmyNet/lemmy).
 
 * [MeiliSearch](https://www.meilisearch.com/)
 * Components of [Firefox](https://www.mozilla.org/en-US/firefox/)
