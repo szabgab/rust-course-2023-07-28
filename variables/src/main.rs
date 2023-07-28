@@ -18,7 +18,9 @@ fn main() {
 
     let age = "300";
     dbg!(age);
-    let age: u8 = age.parse().expect("Could not convert");
+    //let age: u8 = age.parse().expect("Could not convert");
+    //dbg!(age);
+    let age = age as u16;
     dbg!(age);
 }
 
