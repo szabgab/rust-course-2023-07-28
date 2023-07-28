@@ -2,6 +2,8 @@
 
 ## Session 1
 
+* [slides](https://code-maven.com/slides/rust/)
+
 * Sales-pitch - why learn Rust?
 
 * Speed - on par with C and C++ ??
