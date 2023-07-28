@@ -48,13 +48,12 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 * `cargo new demo`
 
-* variable
+* variable `name` with fixed string, print string
 
 * println! print!   eprintln!   eprint!  dbg!  format!  (macros, metaprogramming)
 
-* Exercise: install, hello world
+* Exercise: install, hello world, create a variable with your name and print it too.
 
-* variable with fixed string, print string
 
 * variable with numbers
 * types of numbers
