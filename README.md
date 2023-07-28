@@ -1,4 +1,6 @@
-# rust-course-2023-07-28
+# Experimental Rust Course in Hebrew
+
+Started on 2023-07-28
 
 ## Videos
 
