@@ -28,6 +28,7 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * [Popular Rust projects](https://github.com/search?q=stars%3A%3E13000+language%3ARust&type=Repositories&ref=advsearch&l=&s=stars&o=desc)
 
 * [Tauri](https://tauri.app/)
+* [Tokio](https://tokio.rs/) is an asynchronous runtime for the Rust programming language.
 
 * [Deno](https://deno.land/) JavaScript runtime.
 
