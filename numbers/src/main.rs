@@ -8,6 +8,7 @@ fn main() {
     // let d = a / b; // integer based
     // dbg!(d);
 
+    // let x = 2.4;
     // // let f = a / b as f32; // this does not work
     // let f = a as f32 / b as f32;
     // dbg!(f);

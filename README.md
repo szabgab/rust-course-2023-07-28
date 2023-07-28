@@ -56,8 +56,9 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 
 * variable with numbers
-* types of numbers i8, u8
+* types of numbers: i8, u8, f32 ... default is i32 or f64 respectively.
 * operations with numbers
+* converting integer to floating point with  `var as f32`
 
 * function declaration passing numbers, returning numbers
 
