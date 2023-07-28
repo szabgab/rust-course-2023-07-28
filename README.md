@@ -80,7 +80,9 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * Exercise: fibonacci function (given a number N return the Nth fibonacci number)
 
 * [Video-0](https://youtu.be/ElF1wO7ZO-I)
-* [Video-1]()
+* [Video-1](https://youtu.be/zc2Ey0miHG4)
+* [Video-2](https://youtu.be/Kml0GypwX2Q)
+* [Video-3](https://youtu.be/JGwTaWw0oRw)
 
 ## Session 2
 
