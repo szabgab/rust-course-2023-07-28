@@ -48,6 +48,8 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 * `cargo new demo`
 
+* variable
+
 * println! print!   eprintln!   eprint!  dbg!  format!  (macros, metaprogramming)
 
 * Exercise: install, hello world
