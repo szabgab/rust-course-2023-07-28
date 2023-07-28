@@ -25,6 +25,8 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 * [Awesome Alternatives in Rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)
 
+* [Tauri](https://tauri.app/)
+
 * [Deno](https://deno.land/) JavaScript runtime.
 
 * [Ruff](https://beta.ruff.rs/docs/) a very fast Python linter.
