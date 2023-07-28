@@ -1,5 +1,5 @@
 fn main() {
-    let a = 23;
+    // let a = 23;
     //let b: i16 = 10;
     //let c = 2.3;
     // let b = 19;
@@ -12,6 +12,11 @@ fn main() {
     // let f = a as f32 / b as f32;
     // dbg!(f);
     // hello();
+    dbg!(add(2, 3));
+}
+
+fn add(x :i32, y: i32) -> i32 {
+    x + y
 }
 
 // fn hello() {
