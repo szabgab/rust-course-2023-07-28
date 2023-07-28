@@ -60,18 +60,16 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * operations with numbers
 * converting integer to floating point with  `var as f32`
 
-* function declaration passing numbers, returning numbers
+* function declaration passing numbers, returning numbers `add()`
 
-* Exercise: function that gets two numbers and returns their sum
-* Exercise: function that gets two numbers and divedes them
-* And the other 2 simple math operations
+* Exercise: function that gets two numbers and returns their sum (what I showed)
+* Exercise: 3 other functions for the 3 other operations
 
 * `if` statement
 
-* Exercise: calculator function that gets 2 numbers and an operator (+,-,*,/) and returns the result
-
 * `for` loop on range `for i in 1..5 {}`, break , continue
 
+* Exercise: calculator function that gets 2 numbers and an operator `+,-,*,/` and returns the result
 * Exercise: factorial function (given a number return n!)
 
 
