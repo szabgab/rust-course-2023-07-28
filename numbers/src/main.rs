@@ -13,13 +13,18 @@ fn main() {
     // let f = a as f32 / b as f32;
     // dbg!(f);
     // hello();
-    dbg!(add(2, 3));
+    //dbg!(add(2, 3));
+
+    let x = 23;
+    if x < 30 {
+        println!("less than");
+    }
 }
 
-fn add(x :i32, y: i32) -> i32 {
-    let z = x + y;
-    return z;
-}
+// fn add(x :i32, y: i32) -> i32 {
+//     let z = x + y;
+//     return z;
+// }
 
 // fn hello() {
 //     println!("Hello World");
