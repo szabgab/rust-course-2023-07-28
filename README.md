@@ -90,6 +90,13 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * [Video-2](https://youtu.be/Kml0GypwX2Q)
 * [Video-3](https://youtu.be/JGwTaWw0oRw)
 
+### Projects (folders) used
+
+* [hello-world](hello-world)
+* numbers
+* variables
+
+
 ## Session 2
 
 
