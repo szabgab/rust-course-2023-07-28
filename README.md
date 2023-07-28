@@ -69,16 +69,17 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 * `for` loop on range `for i in 1..5 {}`, break , continue
 
+* mutable variables
+
+* shadowing variables (redeclare)
+
+* `match`
+
 * Exercise: calculator function that gets 2 numbers and an operator `+,-,*,/` and returns the result
 * Exercise: factorial function (given a number return n!)
 * Exercise: fibonacci function (given a number N return the Nth fibonacci number)
 
 
-
 ## Session 2
-
-* mutable variables
-
-* shadowing variables (redeclare)
 
 
