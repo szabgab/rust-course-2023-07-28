@@ -1,5 +1,9 @@
 # rust-course-2023-07-28
 
+## Videos
+
+* [PlayList](https://www.youtube.com/playlist?list=PLm2NBp4tb5F0GfrV8DSxwDn2I88D3gcc7)
+
 ## Session 1
 
 * [slides](https://code-maven.com/slides/rust/)
