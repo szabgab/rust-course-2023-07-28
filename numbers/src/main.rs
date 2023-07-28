@@ -15,10 +15,20 @@ fn main() {
     // hello();
     //dbg!(add(2, 3));
 
-    let x = 23;
+    let x = 33;
     if x < 30 {
         println!("less than");
+    } else {
+        println!("greater than");
     }
+
+    let z = if x < 30 {
+        "less"
+    } else {
+        "grater"
+    };
+    dbg!(z);
+
 }
 
 // fn add(x :i32, y: i32) -> i32 {
