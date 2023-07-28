@@ -9,7 +9,9 @@ fn main() {
     //let age = 23;
     //dbg!(age);
 
+    //let age: i32 = age.parse().expect("Could not convert");
+    //dbg!(age);
 
-    let age: i32 = age.parse();
+    let age: u8 = age.parse().expect("Could not convert");
     dbg!(age);
 }
