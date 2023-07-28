@@ -7,4 +7,7 @@ fn main() {
     dbg!(c);
     let d = a / b;
     dbg!(d);
+
+    let f = a as f32 / b as f32;
+    dbg!(f);
 }
