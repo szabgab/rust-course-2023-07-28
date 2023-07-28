@@ -79,6 +79,8 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * Exercise: factorial function (given a number return n!)
 * Exercise: fibonacci function (given a number N return the Nth fibonacci number)
 
+* [Video-0](https://youtu.be/ElF1wO7ZO-I)
+* [Video-1]()
 
 ## Session 2
 
