@@ -5,9 +5,15 @@ fn main() {
     let b = 19;
     let c = a + b;
     dbg!(c);
-    let d = a / b;
+    let d = a / b; // integer based
     dbg!(d);
 
+    // let f = a / b as f32; // this does not work
     let f = a as f32 / b as f32;
     dbg!(f);
+
+}
+
+fn hello() {
+    println!("Hello World");
 }
