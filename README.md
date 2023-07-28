@@ -29,6 +29,8 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 * [Tauri](https://tauri.app/)
 * [Tokio](https://tokio.rs/) is an asynchronous runtime for the Rust programming language.
+* [Martin](https://martin.maplibre.org/) - PostGIS, MBtiles and PMtiles tile server [GitHub](https://github.com/maplibre/martin). (GeoSpatial field)
+* [t-rex](https://t-rex.tileserver.ch/) - is a vector tile server specialized on publishing MVT tiles from your own data. [GitHub](https://github.com/t-rex-tileserver/t-rex/). (GeoSpatial field)
 
 * [Deno](https://deno.land/) JavaScript runtime.
 
