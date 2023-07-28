@@ -22,10 +22,11 @@ fn main() {
         println!("greater than");
     }
 
+    // ?:
     let z = if x < 30 {
         "less"
     } else {
-        "grater"
+        "grater";
     };
     dbg!(z);
 
