@@ -6,6 +6,10 @@ fn main() {
 
     let age = "23";
     dbg!(age);
-    let age = 23;
+    //let age = 23;
+    //dbg!(age);
+
+
+    let age: i32 = age.parse();
     dbg!(age);
 }
