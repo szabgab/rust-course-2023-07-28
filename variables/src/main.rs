@@ -20,7 +20,12 @@ fn main() {
     dbg!(age);
     //let age: u8 = age.parse().expect("Could not convert");
     //dbg!(age);
-    let age = age as u16;
+    //let age = age as u16;
+    //dbg!(age);
+
+
+    let age = 300;
+    let age = age as f32;
     dbg!(age);
 }
 
