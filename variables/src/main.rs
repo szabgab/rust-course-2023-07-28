@@ -12,6 +12,13 @@ fn main() {
     //let age: i32 = age.parse().expect("Could not convert");
     //dbg!(age);
 
+    //let age: u8 = age.parse().expect("Could not convert");
+    //dbg!(age);
+
+
+    let age = "300";
+    dbg!(age);
     let age: u8 = age.parse().expect("Could not convert");
     dbg!(age);
 }
+
