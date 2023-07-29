@@ -87,8 +87,41 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 * [Video-0](https://youtu.be/ElF1wO7ZO-I)
 * [Video-1](https://youtu.be/zc2Ey0miHG4)
+    * 00:00 Start
+    * 00:58 Course Plan
+    * 01:30 Self-Introduction
+    * 04:20 Why use Rust? Course Resources.
+    * 06:40 Speed
+    * 07:50 Memory Safety / No Garbage Collection
+    * 09:35 Strong Static Types
+    * 11:50 Open-Source Projects
+    * 12:42 Memory Management
+    * 15:12 Course Resources
+    * 16:20 Rust Installation
+    * 17:10 Hello World project
+    * 36:10 Exercises: Install, Hello World
+
 * [Video-2](https://youtu.be/Kml0GypwX2Q)
+    * 00:00 Rust within VS Code
+    * 04:10 Numbers project
+    * 14:30 Functions
+    * 18:30 Return Value - Expression
+    * 22:55 Numbers - Exercises
+    * 23:45 Open-Source Projects in Rust
+    * 30:30 3rd Party Libraries
+
 * [Video-3](https://youtu.be/JGwTaWw0oRw)
+    * 00:52 `if` statement
+    * 02:40 `if` expression
+    * 06:25 `for` loop
+    * 08:15 Variables project
+    * 09:00 mutable - immutable
+    * 18:15 Result type
+    * 28:10 `match`
+    * 34:10 Exercises: Calculator, Factorial, Fibonacci
+    * 35:50 Macros
+    * 37:45 Error Handling Demo
+
 
 ### Projects (folders) used
 
