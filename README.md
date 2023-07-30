@@ -30,6 +30,7 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * [MeiliSearch](https://www.meilisearch.com/)
 * Components of [Firefox](https://www.mozilla.org/en-US/firefox/)
 * In the [Linux kernel](https://docs.kernel.org/rust/index.html)  [kernel](https://git.kernel.org/) Elixir cross reference for [rust](https://elixir.bootlin.com/linux/v6.4.7/source/rust)
+* [coreutils](https://github.com/uutils/coreutils/)
 
 * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 * [Awesome Alternatives in Rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)
