@@ -36,6 +36,7 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * [Awesome Alternatives in Rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)
 * [Popular Rust projects](https://github.com/search?q=stars%3A%3E13000+language%3ARust&type=Repositories&ref=advsearch&l=&s=stars&o=desc)
 
+* [Firecracker](https://firecracker-microvm.github.io/)
 * [Tauri](https://tauri.app/)
 * [Tokio](https://tokio.rs/) is an asynchronous runtime for the Rust programming language.
 * [Martin](https://martin.maplibre.org/) - PostGIS, MBtiles and PMtiles tile server [GitHub](https://github.com/maplibre/martin). (GeoSpatial field)
