@@ -41,8 +41,11 @@ Open source projects that were written in Rust, but are used by not necessarily 
 * [Tokio](https://tokio.rs/) is an asynchronous runtime for the Rust programming language.
 * [Martin](https://martin.maplibre.org/) - PostGIS, MBtiles and PMtiles tile server [GitHub](https://github.com/maplibre/martin). (GeoSpatial field)
 * [t-rex](https://t-rex.tileserver.ch/) - is a vector tile server specialized on publishing MVT tiles from your own data. [GitHub](https://github.com/t-rex-tileserver/t-rex/). (GeoSpatial field)
+* [Turbo Repo and Turbo Pack](https://turbo.build/) high-performance build system for JavaScript and TypeScript
+* [SWC](https://swc.rs/) - Rust-based platform for the web.
 
 * [Deno](https://deno.land/) JavaScript runtime.
+* [soda](https://github.com/Web3-Builders-Alliance/soda)
 
 * [Ruff](https://beta.ruff.rs/docs/) a very fast Python linter.
 * [Polars](https://www.pola.rs/) Lightning-fast DataFrame library for Rust and Python.
