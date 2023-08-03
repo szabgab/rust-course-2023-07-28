@@ -59,11 +59,11 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 * `cargo new demo`
 
-* variable `name` with fixed string, print string
+* Variable `name` with fixed string, print string
 
 * println! print!   eprintln!   eprint!  dbg!  format!  (macros, metaprogramming)
 
-* Exercise: install, hello world, create a variable with your name and print it too.
+* Exercise: Install Rust; Create hello world example; Create a variable with your name and print it too.
 
 
 * variable with numbers
@@ -95,16 +95,28 @@ Open source projects that were written in Rust, but are used by not necessarily 
     * 00:00 Start
     * 00:58 Course Plan
     * 01:30 Self-Introduction
-    * 04:20 Why use Rust? Course Resources.
-    * 06:40 Speed
+    * 04:20 Why use Rust?
+    * 06:55 Speed - Rust is as fast as C, much faster than Python
     * 07:50 Memory Safety / No Garbage Collection
     * 09:35 Strong Static Types
     * 11:50 Open-Source Projects
-    * 12:42 Memory Management
-    * 15:12 Course Resources
+    * 12:42 Memory Management, ownership
+    * 15:12 Rust Resources
     * 16:20 Rust Installation
-    * 17:10 Hello World project
-    * 36:10 Exercises: Install, Hello World
+    * 17:10 Hello World project using cargo.
+    * 23:35 println! macro
+    * 24:20 print!
+    * 25:16 Cheat-sheet for the course
+    * 26:10 eprintln!
+    * 26:40 Redirection of STDOUT and STDERR to /dev/null
+    * 27:40 Defining a variable with "let". String in double quotes.
+    * 28:55 Unused variable warning.
+    * 29:20 Variable with _ prefix.
+    * 30:10 Print content of variable needs a formatting string.
+    * 31:20 Interpolation of variables.
+    * 31:40 Debug printing using dbg!
+    * 32:40 format!
+    * 36:10 Exercises: Install Rust, Hello World.
 
 * [Video-2](https://youtu.be/Kml0GypwX2Q)
     * 00:00 Rust within VS Code
