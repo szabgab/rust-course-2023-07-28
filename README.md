@@ -160,7 +160,7 @@ Open source projects that were written in Rust, but are used by not necessarily 
 ## Session 2
 
 * using standard libraries
-* using crates
+* using [crates](https://crates.io/)
 * Reading values from the command line
 
 
