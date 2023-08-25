@@ -120,9 +120,19 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 * [Video-2](https://youtu.be/Kml0GypwX2Q)
     * 00:00 Rust within VS Code
-    * 04:10 Numbers project
+    * 01:47 rust-analyzer plugin.
+    * 02:25 VS Code showing types
+    * 03:44 Two types of strings. &str and String
+    * 04:50 Creating the numbers project.
+    * 05:45 Defining variables for numbers: i32, i16, f64
+    * 09:17 types: i8, u8
+    * 10:05 division of integers returns an integer
+    * 11:36 conversion of integer to floating point using "as"
     * 14:30 Functions
+    * 17:00 Function that receives numbers and returns a number
     * 18:30 Return Value - Expression
+    * 18:50 Statement vs. expression
+    * 20:00 Default return value of nothing. A pair of empty parenthese.
     * 22:55 Numbers - Exercises
     * 23:45 Open-Source Projects in Rust
     * 30:30 3rd Party Libraries
@@ -148,5 +158,10 @@ Open source projects that were written in Rust, but are used by not necessarily 
 
 
 ## Session 2
+
+* using standard libraries
+* using crates
+* Reading values from the command line
+
 
 
